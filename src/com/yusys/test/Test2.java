@@ -12,6 +12,5 @@ public class Test2 {
         String e = d + 2;
         System.out.println((a.equals(c)));
         System.out.println((a.equals(e)));
-        //System.out.println(TestFinal.a);
     }
 }
