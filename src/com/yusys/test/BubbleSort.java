@@ -7,7 +7,7 @@ package com.yusys.test;
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {6, 3, 8, 2, 9, 1};
-        int temp = 0;
+        int temp;
         System.out.println("排序前数组为:");
         for (int num : arr) System.out.println(num);
 
