@@ -22,7 +22,7 @@ public class Test {
 
 
     public static int add(int a, int b) {
-        div(a,b);
+        div(a, b);
         return a + b;
     }
 
