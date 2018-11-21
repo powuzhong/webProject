@@ -11,10 +11,6 @@ import java.io.ObjectOutputStream;
 public class ObjectStream {
     public static void main(String[] args) throws Exception {
         User user1 = new User("yiwangzhibujian", 27);
-
-
-
-
         User user2 = new User("laizhezhikezhui", 24);
 
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
